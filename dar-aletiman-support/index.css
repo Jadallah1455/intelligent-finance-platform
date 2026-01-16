@@ -1,0 +1,6 @@
+/* Main CSS File */
+/* Tailwind is loaded via CDN in index.html for production stability */
+body {
+    margin: 0;
+    padding: 0;
+}
